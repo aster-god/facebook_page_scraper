@@ -1,6 +1,6 @@
 <h1> Facebook Page Scraper </h1>
 
-[![Maintenance](https://img.shields.io/badge/Maintained-Yes-green.svg)](https://github.com/shaikhsajid1111/facebook_page_scraper/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained-Yes-green.svg)](https://github.com/aster-god/facebook_page_scraper/graphs/commit-activity)
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://opensource.org/licenses/MIT) [![Python >=3.6.9](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
 <p> No need of API key, No limitation on number of requests. Import the library and <b> Just Do It !<b> </p>
@@ -56,7 +56,7 @@
 <h3 id="sourceInstallation"> Installing from source: </h3>
 
 ```
-git clone https://github.com/shaikhsajid1111/facebook_page_scraper
+git clone https://github.com/aster-god/facebook_page_scraper
 ```
 
 <h4> Inside project's directory </h4>
@@ -547,7 +547,7 @@ URL for that post
 <br>
 
 <hr>
-If you encounter anything unusual please feel free to create issue <a href='https://github.com/shaikhsajid1111/facebook_page_scraper/issues'>here</a>
+If you encounter anything unusual please feel free to create issue <a href='https://github.com/aster-god/facebook_page_scraper/issues'>here</a>
 <hr>
 
 <h2 id="license"> LICENSE </h2>
